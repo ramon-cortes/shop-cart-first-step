@@ -1,3 +1,5 @@
+<img src="./Start-screen.jpg">
+
 ## React Shopping Cart First Step
 
 Just an exercise I did as a first step in creating a shopping cart
