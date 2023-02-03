@@ -1,4 +1,4 @@
-<img src="./Start-screen.jpg">
+<img src="./thumb.jpg">
 
 ## React Shopping Cart First Step
 
