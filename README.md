@@ -1,6 +1,4 @@
-<img src="./thumb.jpg">
-
-## React Shopping Cart First Step
+## React Shopping Cart First Step <img src="./thumb.jpg">
 
 Just an exercise I did as a first step in creating a shopping cart
 
@@ -21,7 +19,8 @@ Once you can hit http://localhost:1337/api/motorcycles and get the information (
 
 #### 2.
 
-Start a React app using *npx create-react-app cart*
+Start a React app using **npx create-react-app cart**
+Install Axios **npm install axios***
 
 Go to your /src folder and copy/overwrite with the files in this Repositorie
 
