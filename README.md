@@ -20,9 +20,11 @@ Once you can hit http://localhost:1337/api/motorcycles and get the information (
 
 #### 2.
 
-Start a React app using **npx create-react-app cart**
-Install Axios **npm install axios***
+Start a React app using ***npx create-react-app cart***
+Install Axios ***npm install axios***
 
 Go to your /src folder and copy/overwrite with the files in this Repositorie
+
+***npm start***
 
 It should (I hope) work
