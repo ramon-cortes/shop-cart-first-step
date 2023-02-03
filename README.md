@@ -1,5 +1,5 @@
 ## React Shopping Cart First Step 
-                                 <img src="./thumb.jpg">
+<img src="./thumb.jpg">
 
 Just an exercise I did as a first step in creating a shopping cart
 
