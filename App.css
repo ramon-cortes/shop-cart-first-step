@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI';
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.shop {
+  background-color: rgb(128, 165, 233);
+  padding: 5px;
+}
+
+.cart {
+  background-color: rgb(93, 170, 170);
+  padding: 5px;
+}
+
+table, th, tr, td {
+  border: 2px solid rgb(10, 10, 100);
+  border-collapse: collapse;
+  padding: 2px;
+}
+
+button {
+  color: rgb(128, 165, 233);
+  background-color: rgb(10, 10, 100);
+  border-radius: 8px;
+}
